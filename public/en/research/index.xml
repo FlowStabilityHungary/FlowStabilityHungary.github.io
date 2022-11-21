@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Topics on Flow Stability Research Group</title>
+    <link>http://example.org/en/research/</link>
+    <description>Recent content in Research Topics on Flow Stability Research Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="http://example.org/en/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drag reduction</title>
+      <link>http://example.org/en/research/kio-tape-2/</link>
+      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
+      
+      <guid>http://example.org/en/research/kio-tape-2/</guid>
+      <description>Drag reductionDrag reductionDrag reductionDrag reductionDrag reductionDrag reductionDrag reductionDrag reductionDrag reductionDrag reductionDrag reduction
+The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.</description>
+    </item>
+    
+    <item>
+      <title>Aeroacoustics</title>
+      <link>http://example.org/en/research/kio-tape/</link>
+      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
+      
+      <guid>http://example.org/en/research/kio-tape/</guid>
+      <description>AeroacousticsAeroacousticsAeroacousticsAeroacousticsAeroacousticsAeroacousticsAeroacousticsAeroacousticsAeroacousticsAeroacousticsAeroacousticsAeroacousticsAeroacousticsAeroacousticsAeroacoustics
+The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+The watch has the following features:</description>
+    </item>
+    
+  </channel>
+</rss>

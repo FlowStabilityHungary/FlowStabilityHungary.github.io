@@ -1,0 +1,115 @@
+[home]
+
+other = "Main"
+
+[about]
+
+other = "About"
+
+[news]
+
+other = "News"
+
+[topics]
+
+other = "SSC Topics"
+
+[contact]
+
+other = "Get in touch"
+
+[home_url]
+
+other = "/en"
+
+[about_url]
+
+other = "/en/about"
+
+[news_url]
+
+other = "/en/news"
+
+[topics_url]
+
+other = "/en/topics"
+
+[contact_url]
+
+other = "/en/contact"
+
+[footer_title]
+
+other = "Contact"
+
+[group_name]
+
+other = "Flow Stability Research Group"
+
+[reasearch_title]
+
+other = "Research Topics"
+
+[footer_address]
+
+other = "1111, Budapest<br>Műegyetem rkp. 3"
+
+[footer_links]
+
+other = "Webpages"
+
+[footer_BME]
+
+other = "Budapest University of Technology and Economics"
+
+[footer_BME_link]
+
+other = "https://www.bme.hu/?language=en"
+
+[footer_GPK]
+
+other = "BME Faculty of Mechanical Engineering"
+
+[footer_GPK_link]
+
+other = "https://gpk.bme.hu/en/"
+
+[footer_HDS]
+
+other = "Department of Hydrodynamic Systems"
+
+[footer_HDS_link]
+
+other = "https://www.hds.bme.hu/tanszek.php?sm=1&lang=EN"
+
+[research_detail]
+
+other = "Details"
+
+[topics_detail]
+
+other = "Details"
+
+[news_read_more]
+
+other = "read more"
+
+[first_name]
+
+other = "First Name"
+
+[last_name]
+
+other = "Last Name"
+
+[project_type]
+
+other = "Subject"
+
+[about_the_project]
+
+other = "Message"
+
+[send_message]
+
+other = "Send Message"

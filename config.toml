@@ -1,0 +1,90 @@
+baseURL       = "FlowStabilityHungary.github.io"
+theme         = "roxo-hugo"
+summarylength = 25
+
+DefaultContentLanguage = "hu"
+DefaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    title = "Flow Stability Research Group"
+    languageName = "english"
+    languageFlag = "images/flag-uk.png"
+    weight = 1
+  [languages.hu]
+    contentDir = "content/hu"
+    title = "Áramlások Stabilitása Kutatócsoport"
+    languageName = "magyar"
+    languageFlag = "images/flag-hu.png"
+    weight = 2
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name = "home"
+    url     = "home_url"
+    weight  = 1
+  [[menu.nav]]
+    name    = "news"
+    url     = "news_url"
+    weight  = 2
+  [[menu.nav]]
+    name    = "topics"
+    url     = "topics_url"
+    weight  = 3
+  [[menu.nav]]
+    name    = "contact"
+    url     = "contact_url"
+    weight  = 4
+
+# Site Params
+[params]
+  logo = "images/logo.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Flow Stability Research Group"
+  author = "BME HDS"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  fabform  = "https://fabform.io/f/USAg2Jl"
+    
+
+  # Contact Form
+  [params.contactForm]
+    placeholder_first_name        = "first_name"
+    placeholder_last_name         = "last_name"
+    placeholder_email             = "Email"
+    placeholder_project_type      = "project_type"
+    placeholder_about_the_project = "about_the_project"
+    send_message                  = "send_message"  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    heading               = "group_name"
+
+  [params.portfolio]
+    enable    = true
+    title     = "reasearch_title"
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "footer_title"
+      address = "footer_address"
+      phone   = "+36 1 463-2991"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "footer_links"
+        [[params.footer.sitemap.link]]
+          name = "footer_BME"
+          url  = "footer_BME_link"
+        [[params.footer.sitemap.link]]
+          name = "footer_GPK"
+          url  = "footer_GPK_link"
+        [[params.footer.sitemap.link]]
+          name = "footer_HDS"
+          url  = "footer_HDS_link"

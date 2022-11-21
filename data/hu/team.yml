@@ -1,0 +1,30 @@
+enable  : true
+title   : Tagok
+members  :
+  - image       : images/team/gypaalcut.png
+    name        : Dr. Paál György
+    designation : Egyetemi tanár
+    medium      : https://www.researchgate.net/profile/Gyoergy-Paal
+    linkedin    : https://scholar.google.com/citations?user=89TGEksAAAAJ
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/pnagy.png
+    name        : Dr. Nagy Péter
+    designation : Tudományos munkatárs
+    medium      : https://www.researchgate.net/profile/Peter-Nagy-11 #https://www.hds.bme.hu/xml/cv/pnagy_HU.pdf
+    linkedin    : https://scholar.google.com/citations?user=4J2i7kAAAAAJ
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/aszabocut.png
+    name        : Szabó András
+    designation : PhD hallgató
+    medium      : https://www.researchgate.net/profile/Andras-Szabo-9
+    linkedin    : https://scholar.google.com/citations?hl=hu&user=1jzHZhsAAAAJ
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/mkulcsarcut.png
+    name        : Kulcsár Márton
+    designation : PhD hallgató
+    medium      : https://www.researchgate.net/profile/Marton-Kulcsar
+    #linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/

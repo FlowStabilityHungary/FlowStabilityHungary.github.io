@@ -1,0 +1,115 @@
+[home]
+
+other = "Főoldal"
+
+[about]
+
+other = "Rólunk"
+
+[news]
+
+other = "Hírek"
+
+[topics]
+
+other = "TDK Témák"
+
+[contact]
+
+other = "Kapcsolat"
+
+[home_url]
+
+other = "/hu"
+
+[about_url]
+
+other = "/hu/about"
+
+[news_url]
+
+other = "/hu/news"
+
+[topics_url]
+
+other = "/hu/topics"
+
+[group_name]
+
+other = "Áramlások Stabilitása Kutatócsoport"
+
+[reasearch_title]
+
+other = "Kutatási Területek"
+
+[contact_url]
+
+other = "/hu/contact"
+
+[footer_title]
+
+other = "Kapcsolat"
+
+[footer_address]
+
+other = "1111, Budapest<br>Műegyetem rkp. 3"
+
+[footer_links]
+
+other = "Weboldalak"
+
+[footer_BME]
+
+other = "Budapesti Műszaki és Gazdaságtudományi Egyetem"
+
+[footer_BME_link]
+
+other = "https://www.bme.hu/?language=hu"
+
+[footer_GPK]
+
+other = "BME Gépészmérnöki Kar"
+
+[footer_GPK_link]
+
+other = "https://gpk.bme.hu/hu/"
+
+[footer_HDS]
+
+other = "Hidrodinamikai Rendszerek Tanszék"
+
+[footer_HDS_link]
+
+other = "https://www.hds.bme.hu/tanszek.php?sm=1&lang=HU"
+
+[research_detail]
+
+other = "Részletek"
+
+[topics_detail]
+
+other = "Részletek"
+
+[news_read_more]
+
+other = "tovább olvasás"
+
+[first_name]
+
+other = "Vezetéknév"
+
+[last_name]
+
+other = "Keresztnév"
+
+[project_type]
+
+other = "Tárgy"
+
+[about_the_project]
+
+other = "Üzenet"
+
+[send_message]
+
+other = "Üzenet küldése"

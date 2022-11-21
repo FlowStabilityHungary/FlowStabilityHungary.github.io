@@ -1,0 +1,45 @@
+{{ define "main" }}
+<section class="site-contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 ml-auto">
+        <div class="site-contact-form">
+          <h4>{{ .Params.form_heading }}</h4>
+          <form id="contact-form" action="{{ .Site.Params.fabform }}" method="post">
+            <div class="row">
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="first-name" id="first-name" placeholder="{{ T .Site.Params.contactForm.placeholder_first_name }}" required>
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="last-name" id="last-name" placeholder="{{ T .Site.Params.contactForm.placeholder_last_name }}" required>
+              </div>
+              <div class="col-lg-6">
+                <input type="email" class="form-control" name="email" id="email" placeholder="{{ .Site.Params.contactForm.placeholder_email }}" required>
+              </div>
+              <div class="col-lg-6">
+                <input type="subject" class="form-control" name="subject" id="subject" placeholder="{{ T .Site.Params.contactForm.placeholder_project_type }}" required>
+              </div>
+              <div class="col-12">
+                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="{{ T .Site.Params.contactForm.placeholder_about_the_project }}"></textarea>
+              </div>
+              <div class="col-12">
+                <button formtarget="_blank" type="submit" class="btn btn-primary" id="contact-form-button">
+                  <span class="btn-area">
+                    <span data-text="{{ T .Site.Params.contactForm.send_message }}">
+                      {{ T .Site.Params.contactForm.send_message }}
+                    </span>
+                  </span>
+                </button>
+              </div>
+              <p id="contact-form-status"></p>
+            </div>
+          </form>
+          <p class="contact-form-generator">
+            <strong>** </strong><a href="https://fabform.io/" target="_blank">Static website forms</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

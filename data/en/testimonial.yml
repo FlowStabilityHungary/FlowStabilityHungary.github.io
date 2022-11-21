@@ -1,0 +1,23 @@
+enable  : true
+title   : "Partners"
+#subtitle: "What clients says about our services."
+testimonial_item :
+  - thumb : "images/testimonial/maartencut.jpg"
+    name  : "Maarten Vanierschot"
+    company_position: "KU Leuven, associate professor"
+    partnerweb: https://www.kuleuven.be/wieiswie/en/person/00041408
+    quote : "We work together with Prof. Maarten Vanierschot in the field of drag reduction techniques. We research together the effect of miniature vortex generators on the laminar-turbulent transition." 
+
+
+  - thumb : "images/testimonial/Rucz_Peter.jpg"
+    name  : "Péter Rucz"
+    company_position: "BME HIT, assistant professor"
+    partnerweb: http://www.hit.bme.hu/~rucz/home
+    quote : #>  ez a jel ahhoz kell, hogy idézőjelben legyen
+            "We investigate the role of flow oscillations in aeroacoustics with Dr. Péter Rucz. We developed models of musical instruments and other strongly coupled acoustic-aerodynamics systems, like cavity tone." 
+  
+  - thumb : "images/testimonial/kaltenbacher.jpg"              
+    name  : "Manfred Kaltenbacher"
+    company_position: "TU Graz,  associate professor"
+    partnerweb: https://www.tugraz.at/institute/igte/institute/team/kaltenbacher/
+    quote : "We working on more accurate models of aeroacoustic noise sources with Prof. Manfred Kaltenbacherrel." 
