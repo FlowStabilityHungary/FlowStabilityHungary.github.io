@@ -11,4 +11,4 @@ Flow oscillations play an important role in aeroacoustics. In such cases, the mo
 
 Using methods to assess the stability of the flow, we developed new models to describe aeroacoustic oscillations. Furthermore, we created models to better understand the relationship between the acoustic and aerodynamic fields.
 
-If you are interested in more about aeroacoustics, watch our YouTube videos LINK, or feel free to contact us.
+If you are interested in more about aeroacoustics, watch our [YouTube video](https://youtu.be/4OTqRtpf764), or feel free to contact us.

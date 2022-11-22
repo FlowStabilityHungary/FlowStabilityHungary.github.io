@@ -14,5 +14,7 @@ The friction losses in a turbulent flow are usually at least one order of magnit
 
 Our research group has developed techniques that can delay the laminar-turbulent transition in the case of streamlined bodies, thereby reducing flow losses. Among others, we model the effect of elastic coatings and miniature vortex generators, but we also investigate the influence of surface roughness. However, we offer our expertise in any type of flow loss reduction, and we also look for partners to cooperate on various research topics. 
 
-You can watch our popular science YouTube video on the topic here [LINK].
+You can watch our popular science YouTube video on the topic [here](https://youtu.be/CQ1qgylE5kU).
+
+
 

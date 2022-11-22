@@ -9,10 +9,10 @@ project_images: ["images/research/Boundary_layer_magnitude_rigid_wall.gif"]#, "i
 
 Az áramlásokban megjelenő instabilitások jelentősen hozzájárulnak a nem kívánt áramlási veszteségekhez. Így pl. egy jármű vízben vagy levegőben történő mozgatásához több energiára van szükség, mint stabil állapotban.
 
-Maga a veszteségnövekedés elég sokrétű. Az áramlás stabilitásvesztése járulhat hozzá a máig komoly modellezési kihívásokat okozó turbulencia kifejlődéséhez. A turbulens áramlásban a veszteségek általában legalább egy nagyságrenddel nagyobbak, mintha hasonló körülmények közt lamináris maradt volna az áramlás. A instabilitási hullámok nem csak okozói lehetnek a turbulencia kifejlődésének, de turbulens áramlásban is kifejlődhetnek, tovább növelve a veszteségeket. 
+Maga a veszteségnövekedés elég sokrétű. Az áramlás stabilitásvesztése járulhat hozzá a máig komoly modellezési kihívásokat okozó turbulencia kifejlődéséhez. A turbulens áramlásban a veszteségek általában legalább egy nagyságrenddel nagyobbak, mintha hasonló körülmények közt lamináris maradt volna az áramlás. A instabilitási hullámok nemcsak okozói lehetnek a turbulencia kifejlődésének, de turbulens áramlásban is kifejlődhetnek, tovább növelve a veszteségeket. 
 
-Kutatócsoportunk főleg áramvonalas testek esetére dolgozott ki eljárásokat, amikkel a lamináris-turbulens átmenet késleltethető. Többek közt elasztikus bevonatokkal, miniatűr örvénygenerátorok hatásával és a felületi érdesség modellezésével foglalkozunk. Ettől függetlenül a veszteségcsökkentés minden területén állunk rendelkezése, mind tanácsadás, mind közös fejlesztés keretein belül. 
+Kutatócsoportunk főleg áramvonalas testek esetére dolgozott ki eljárásokat, amikkel a lamináris-turbulens átmenet késleltethető. Többek közt elasztikus bevonatokkal, miniatűr örvénygenerátorok hatásával és a felületi érdesség modellezésével foglalkozunk. Ettől függetlenül a veszteségcsökkentés minden területén állunk rendelkezésre, mind tanácsadás, mind közös fejlesztés keretein belül. 
 
-A témáról készült ismeretterjesztő youtube videónkat itt [LINK] tekintheti meg.
+A témáról készült ismeretterjesztő youtube videónkat [itt](https://youtu.be/s7G0auD_mW0) tekintheti meg.
 
 

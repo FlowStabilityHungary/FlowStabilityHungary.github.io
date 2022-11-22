@@ -11,10 +11,10 @@ testimonial_item :
 
   - thumb : "images/testimonial/Rucz_Peter.jpg"
     name  : "Rucz Péter"
-    company_position: "BME HIT, adjukntus"
+    company_position: "BME HIT, adjunktus"
     partnerweb: http://www.hit.bme.hu/~rucz/home
     quote : #>  ez a jel ahhoz kell, hogy idézőjelben legyen
-            "Dr. Rucz Péterrel az áramlási lengések aeroakusztikában betöltött szerepét vizsgáljuk. Közösen fejlesztünk hangszermodelleket és modellezük más erősen csatolt akusztikai-áramlástani jelenségeket, mint az üreghang." 
+            "Dr. Rucz Péterrel az áramlási lengések aeroakusztikában betöltött szerepét vizsgáljuk. Közösen fejlesztünk hangszermodelleket, és modellezünk más erősen csatolt akusztikai-áramlástani jelenségeket, mint az üreghang." 
  
   - thumb : "images/testimonial/kaltenbacher.jpg"              
     name  : "Manfred Kaltenbacher"
