@@ -113,3 +113,15 @@ other = "Üzenet"
 [send_message]
 
 other = "Üzenet küldése"
+
+[by]
+ 
+other = "írta:"
+
+[footer_en]
+
+other = " "
+
+[footer_hu]
+
+other = "által készített sablon alapján"

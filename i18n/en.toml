@@ -113,3 +113,15 @@ other = "Message"
 [send_message]
 
 other = "Send Message"
+
+[by]
+ 
+other = "by"
+
+[footer_en]
+
+other = "Based on a template by"
+
+[footer_hu]
+
+other = " "
