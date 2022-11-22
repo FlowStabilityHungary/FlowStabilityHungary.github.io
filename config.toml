@@ -1,4 +1,4 @@
-baseURL       = "FlowStabilityHungary.github.io"
+baseURL       = "https://flowstabilityhungary.github.io/"
 theme         = "roxo-hugo"
 summarylength = 25
 
