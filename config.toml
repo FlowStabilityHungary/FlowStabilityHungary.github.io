@@ -48,8 +48,8 @@ DefaultContentLanguageInSubdir = true
   author = "BME HDS"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
-  # We're using formspree.io for form handling, paste your formspree url below
-  fabform  = "https://fabform.io/f/USAg2Jl"
+  # We're using formspree.io for form handling, paste your formspree url below, fabform.io
+  fabform  = "https://formsubmit.co/hdr.kutatas@gmail.com"
     
 
   # Contact Form
