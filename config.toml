@@ -47,7 +47,7 @@ DefaultContentLanguageInSubdir = true
   description = "Flow Stability Research Group"
   author = "BME HDS"
   # Google Analitycs
-  googleAnalitycsID = "Your ID"
+  googleAnalitycsID = "G-WGSN129H1G"
   # We're using formspree.io for form handling, paste your formspree url below, fabform.io
   fabform  = "https://formsubmit.co/hdr.kutatas@gmail.com"
     
