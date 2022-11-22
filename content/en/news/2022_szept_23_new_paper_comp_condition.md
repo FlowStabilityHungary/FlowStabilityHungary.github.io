@@ -6,6 +6,6 @@ feature_image: images/news/new_paper.png
 author: Dr. Nagy Péter Tamás
 ---
 
-Our paper is published about a three-dimensional, analytic flow example that does not fulfill the compatibility condition. Therefore, the solution is irregular at the initial time. 
+A paper is published by us on a three-dimensional, analytic flow example that does not fulfil the compatibility condition. Therefore, the solution is irregular at the initial time. 
 [Doi](https://doi.org/10.1088/1873-7005/ac92a4)
 

@@ -7,7 +7,7 @@ author: Dr. Nagy Péter Tamás
 ---
 
 
-From our research team, Dr. György Paál and Dr. Tamás Péter Nagy presented our latest research results in connection with miniature vortex generators and a new type of stability testing method at the European Fluid Mechanics Conference held in Athens. This is the largest conference on fluid dynamics in Europe, and it is also considered as one of the most prestigious in the world.
+From our research team, Dr. György Paál and Dr. Tamás Péter Nagy presented our latest research results in connection with miniature vortex generators and a new type of stability testing method at the European Fluid Mechanics Conference held in Athens. This is the largest conference on fluid dynamics in Europe, and it is also considered as one of the most prestigious one in the world.
 
 
 
